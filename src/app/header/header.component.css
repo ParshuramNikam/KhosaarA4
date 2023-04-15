@@ -1,0 +1,11 @@
+header {
+  text-align: center;
+  background-color: #9ca3af;
+  color: #0f172a;
+}
+
+h1,
+h2,
+h3 {
+  padding: 5px 0;
+}

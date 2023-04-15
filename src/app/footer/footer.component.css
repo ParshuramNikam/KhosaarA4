@@ -1,0 +1,16 @@
+footer {
+    text-align: center;
+    background-color: #e5e5e5;
+    color: #9a3412;
+    /* position: fixed; */
+    /* bottom: 0; */
+    width: 100%;
+    min-height: 10rem;
+  }
+  
+  h1,
+  h2,
+  h3 {
+    padding: 5px 0;
+  }
+  

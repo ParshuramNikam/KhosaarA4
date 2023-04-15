@@ -1,0 +1,72 @@
+.shopping-list {
+  max-width: 900px;
+  margin: 1rem auto;
+  text-align: center;
+  padding-bottom: 12rem;
+  min-height: 50vh;
+}
+
+.shopping-list h1 {
+  font-size: 36px;
+  margin-bottom: 20px;
+}
+
+.shopping-list input[type="text"] {
+  width: 100%;
+  padding: 10px;
+  font-size: 18px;
+  border: 2px solid #ccc;
+  margin-bottom: 20px;
+}
+
+.shopping-list button {
+  background-color: #4caf50;
+  color: white;
+  padding: 10px 20px;
+  border: none;
+  cursor: pointer;
+  margin-left: 10px;
+}
+
+.add_btn{
+    margin-bottom: 1rem;
+}
+
+.shopping-list button:hover {
+  background-color: #3e8e41;
+}
+
+.shopping-list ul {
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+}
+
+.shopping-list li {
+  font-size: 20px;
+  padding: 10px;
+  margin-bottom: 10px;
+  background-color: #f2f2f2;
+  border-radius: 5px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.shopping-list li button {
+  background-color: #f44336;
+  color: white;
+  padding: 5px 10px;
+  border: none;
+  cursor: pointer;
+  border-radius: 3px;
+}
+
+.shopping-list li button:hover {
+  background-color: #d32f2f;
+}
+
+.shopping-list footer {
+  margin-top: 20px;
+  font-size: 14px;
+  color: #999;
+}
